@@ -1,0 +1,7 @@
+body{
+    background-color: brown;
+    background-image: url(../rasmlar/Tabiat.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center 100px;
+}
